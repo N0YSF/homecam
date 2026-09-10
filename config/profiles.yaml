@@ -1,0 +1,26 @@
+profiles:
+
+  quiet:
+    resolution: 1920x1080
+    frame_rate: 15
+    bitrate: 2048
+    noise_reduction: high
+
+  normal:
+    resolution: 2560x1440
+    frame_rate: 20
+    bitrate: 4096
+    noise_reduction: medium
+
+  quality:
+    resolution: 2560x1440
+    frame_rate: 25
+    bitrate: 6144
+    noise_reduction: low
+
+  night:
+    resolution: 1920x1080
+    frame_rate: 15
+    bitrate: 3072
+    exposure: night
+    noise_reduction: high
