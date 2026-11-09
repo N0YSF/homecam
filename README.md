@@ -28,5 +28,4 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-website: [http://pwnschool.xyz
-](https://pwnschool.xyz/)
+website: https://pwnschool.xyz/
